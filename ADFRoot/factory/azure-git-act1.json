@@ -1,0 +1,9 @@
+{
+	"name": "azure-git-act1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "819ca302-6331-4c89-9081-fd235123e8f2",
+		"tenantId": "a6f213e6-48c8-4c61-b2fc-76425d822a0f"
+	}
+}
